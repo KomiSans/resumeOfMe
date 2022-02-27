@@ -4,6 +4,8 @@
  - 邵宇涵
  - 非统招 大专 / 机电一体化技术 
  - 工作年限：1.5年
+ - 个人博客: http://komisans.cc
+ - Github: https://github.com/KomiSans 
 
  - 期望职位：**Java / .Net**
  - 期望城市：不限 <span style="color:red">(远程)</span>
