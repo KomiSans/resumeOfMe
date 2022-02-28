@@ -3,18 +3,15 @@
 
  - 邵宇涵
  - 非统招 大专 / 机电一体化技术 
- - 工作年限：1.5年
  - 个人博客: http://komisans.cc
  - Github: https://github.com/KomiSans 
 
  - 期望职位：**Java / .Net**
- - 期望城市：不限 <span style="color:red">(远程)</span>
 
 # 联系方式
 
-- 手机：JzE3NjEyMjk0NjEzJyANCg== <span style="color:red">(base64)</span>
+- 手机：17612294613
 - Email：sansdavin8@gmail.com
-- 微信号：YXl1bmkxOTE2IA0K <span style="color:red">(base64)</span>
       
 # 工作经历
 
@@ -41,14 +38,14 @@
 
 **技术架构**: ASP.NET, SQL Server 存储过程以及视图，Angular前端框架
 
-  ## 上海世羽数据科技有限公司（ 2021年12月 ~ 至今 ） - <span style="color:orange">Flutter研发兼前端</span>
+  ## 上海世羽数据科技有限公司（ 2021年12月 ~ 2022年3月 ） - <span style="color:orange">前端工程师</span>
 **项目描述**:
 1-华仁工厂ERP系统 物料管理以及供应商管理
 2-火山有色APP 负责后端接口联调以及业务实现
 
 **职责描述**: 主要负责App以及Web的前端UI以及与后台接口调试
 
-**技术架构**: Vue, VueX, MySQL作为主要数据库
+**技术架构**: Vue, VueX作为状态管理, MySQL作为主要数据库, typescript, TailWind CSS
 # 技能清单
 以下均为我熟悉的技能:
 * 语言类: Java8 、C#
